@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "/register Omar1r123"
+      "password": "Omar1r123"
     },
     "anti-afk": {
       "enabled": true,
