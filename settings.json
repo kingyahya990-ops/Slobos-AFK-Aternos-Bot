@@ -2,13 +2,13 @@
   "name": "Omar1r123",
   "bot-account": {
     "username": "Omar1r123",
-    "password": "",
+    "password": "Omar1r123",
     "type": "offline"
   },
   "server": {
     "ip": "FRBcraft.aternos.me",
     "port": 60919,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
