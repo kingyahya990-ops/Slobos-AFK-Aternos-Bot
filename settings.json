@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Omar1r123",
   "bot-account": {
     "username": "Omar1r123",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FRBcraftS.aternos.me",
+    "ip": "FRBcraft.aternos.me",
     "port": 60919,
     "version": "",
     "try-creative": false
