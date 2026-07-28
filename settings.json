@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FRBcrafts.aternos.me",
+    "ip": "FRBcraft.aternos.me",
     "port": 60919,
     "version": "",
     "try-creative": false
